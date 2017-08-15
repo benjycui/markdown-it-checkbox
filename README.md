@@ -83,19 +83,19 @@ the id of the checkboxs input contains the prefix and an incremental number star
 
 ## License
 
-[MIT License](https://github.com/mcecot/markdown-it-checkboxes/blob/master/LICENSE) © 2015 Markus Cecot
+[MIT License](https://github.com/benjycui/markdown-it-checkboxes/blob/master/LICENSE) © 2015 Markus Cecot
 
 [npm-url]: https://npmjs.org/package/markdown-it-checkboxes
 [npm-image]: https://img.shields.io/npm/v/markdown-it-checkboxes.svg
 
-[travis-url]: http://travis-ci.org/mcecot/markdown-it-checkboxes
-[travis-image]: https://secure.travis-ci.org/mcecot/markdown-it-checkboxes.svg?branch=master
+[travis-url]: http://travis-ci.org/benjycui/markdown-it-checkboxes
+[travis-image]: https://secure.travis-ci.org/benjycui/markdown-it-checkboxes.svg?branch=master
 
-[coveralls-url]: https://coveralls.io/r/mcecot/markdown-it-checkboxes
-[coveralls-image]: https://img.shields.io/coveralls/mcecot/markdown-it-checkboxes.svg
+[coveralls-url]: https://coveralls.io/r/benjycui/markdown-it-checkboxes
+[coveralls-image]: https://img.shields.io/coveralls/benjycui/markdown-it-checkboxes.svg
 
-[depstat-url]: https://david-dm.org/mcecot/markdown-it-checkboxes
-[depstat-image]: https://david-dm.org/mcecot/markdown-it-checkboxes.svg
+[depstat-url]: https://david-dm.org/benjycui/markdown-it-checkboxes
+[depstat-image]: https://david-dm.org/benjycui/markdown-it-checkboxes.svg
 
-[devdepstat-url]: https://david-dm.org/mcecot/markdown-it-checkboxes#info=devDependencies
-[devdepstat-image]: https://david-dm.org/mcecot/markdown-it-checkboxes/dev-status.svg
+[devdepstat-url]: https://david-dm.org/benjycui/markdown-it-checkboxes#info=devDependencies
+[devdepstat-image]: https://david-dm.org/benjycui/markdown-it-checkboxes/dev-status.svg
